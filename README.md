@@ -1,34 +1,7 @@
 
 # Faïrspöt 
 
-MMMMMMMMMMMMMMWKkl;..        ..;lkKWMMMMMMMMMMMMMM
-MMMMMMMMMMWXkl;..                ..;lkXWMMMMMMMMMM
-MMMMMMMMNk:.    .,:loxkkkkkkxol:,.    .:kNMMMMMMMM
-MMMMMMXo'   .,lkKWMMMMMMMMMMMMMMWKkl,.   'dXMMMMMM
-MMMMNd.   'o0WMMMWKOxolcccclodkKNMMMW0o'   .dNMMMM
-MMW0;   'dXMMMNOl,.            .,lkNMMMXd'   ;0WMM
-MWk.  .lXMMMNx,    .,:loooolc,.    'dXMMMXl.  .kWM
-Wx.  .xWMMWO,   .:xKWMMMMMMMMWXkc.   'kWMMWx.  .xW
-O'  .xWMMWx.  .c0WMMMMMMMMMMMMMMMKl.  .oNMMWx.  'O
-:   oWMMMk.  .dWMMMMW0dlccldONMMMMWk.  .dWMMWo   :
-.  '0MMMX;   oWMMMMK:.       ;0MMMMWx.  '0MMM0'  .
-   cNMMMO.  'OMMMMN:          ,KMMMMK;  .xMMMNc   
-   oWMMMk.  ,0MMMMX;          '0MMMMX;   dMMMMo   
-   lWMMM0'  .kMMMMWk.        .xWMMMMO'  .kMMMWl   
-.  ;XMMMWl   ,KMMMMMx.       cNMMMMX:   :NMMMX;  .
-,  .xMMMMX:   ,OWMMMk.       cWMMW0;   ,0MMMMx.  ,
-d.  ,0MMMMXc   .c0WMk.       cWMKl.   ;0MMMM0,  .d
-Nc   ;KMMMMNk,   ;XMk.       cWWo   'dNMMMMK;   cN
-MXc   'kWMMMMNk:.:XMk.       cWMd.;xXMMMMWk'   cXM
-MMNo.  .cKWMMMMWXKWMk.       cWMNXWMMMMWKc.  .oNMM
-MMMWO,   .lKMMMMMMMMk.       cWMMMMMMMXo.   ,kWMMM
-MMMMMNx,   lWMMMMMMMk.       cWMMMMMMMk.  'xNMMMMM
-MMMMMMMNk:.lWMMMMMMMk.       cWMMMMMMMO,;xNMMMMMMM
-MMMMMMMMMWXXMMMMMMMMk.       cWMMMMMMMWNWMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMk.       cWMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMk.       cWMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMk.       cWMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMk.       cWMMMMMMMMMMMMMMMMMMM
+![alt text](https://github.com/charleenfei/images/blob/master/logo.png)
 
 ## Why?
 
