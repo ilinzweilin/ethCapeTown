@@ -7,7 +7,8 @@
 
 ## Why?
 
-Buying airtime is expensive (and expires!). 
+Buying airtime is expensive (and expires!).
+
 Subscription access to roaming internet forces you to choose between privacy, convenience and access. The ability to get quick access to data when you really need it to check for directions or call a taxi just doesn't exist. Because some people just want to help create a better world based on sharing what they have. Because other people could be helped significantly by an additional source of income, based off a WiFi network they already have at home.
 
 We believe all these reasons matter, and that access to internet should be a right for everyone.
