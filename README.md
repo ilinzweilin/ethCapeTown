@@ -1,7 +1,7 @@
 
 # Faïrspöt 
 
-<img align="left" width="100" height="100" src="https://github.com/charleenfei/images/blob/master/logo.png">
+<img align="center" width="450" height="450" src="https://github.com/charleenfei/images/blob/master/logo.png">
 
 ## Why?
 
