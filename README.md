@@ -7,13 +7,17 @@
 
 ## Why?
 
-Decentralised digital independence!
+Decentralised digital independence.
 
-Buying airtime is expensive (and expires!)
-access to roaming internet and don't have money 
-Some people just need enough data to check for directions or call for a taxi.
-Sometimes people have a WiFi network at home, and could use a side income stream.
+Buying airtime is expensive (and expires!), subscription access to roaming internet forces you to choose between privacy, convenience and access (triangles). The ability to microtap into data when you only need it to check for directions or call a taxi just doesn't exist. That some people just want to help create a better world based on sharing what they have. That other people have a WiFi network at home, but really just want a little side income stream.
+
+We believe all these reasons matter, and that access to internet should be a right for everyone.
 
 ## How?
 
-By enabling fair and private internet access via micropayments over the Raiden Network, to incentivise and tokenise a mesh network.
+We incentivise the creation of an internet sharing infrastructure (inspired by the Freifunk project) via micropayments over the Raiden Network, and offer a token flow which actually generates utility.
+
+## Future Thoughts
+
+## Hackathon Challenges
+
