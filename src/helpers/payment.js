@@ -31,7 +31,6 @@ export async function joinTokenNetwork() {
       headers: { 'Content-Type': 'application/json' },
     }
   )
-  onsole.log('joined nework', res)
 }
 
 export async function getExistingPartners() {

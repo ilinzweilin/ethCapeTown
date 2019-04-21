@@ -129,15 +129,14 @@ disconnectFromNetwork = async () => {
     connectedNetwork : undefined,
     connectedSnackBarOpen : false,
     disconnectedSnackBarOpen : true,
-    kBytesConsumed: 0,
-    moneySpoent: 0 })
+    kBytesConsumed: 0 })
   this.hideDisconnectedSnackBar()
 }
 
 hideConnectedSnackBar = () => {
   setTimeout(() => { 
     this.setState ({ connectedSnackBarOpen : false })
-  }, 3000)  
+  }, 6000)  
 }
 
 hideDisconnectedSnackBar = () => {

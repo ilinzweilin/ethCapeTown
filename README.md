@@ -1,15 +1,15 @@
 
-## Faïrspöt 
+# Faïrspöt 
 
-Why?
+## Why?
 
+Decentralised digital independence!
+
+Buying airtime is expensive (and expires!)
+ access to roaming internet and don't have money 
 Some people just need enough data to check for directions or call for a taxi.
 Sometimes people have a WiFi network at home, and could use a side income stream.
 
-## Faïrspöt 
+## How?
 
-How?
-
-Decentralising digital independence!
-
-By enabling microhotspots via micropayments over the Raiden Network, to incentivise and tokenise a mesh network.
+By enabling fair and private internet access via micropayments over the Raiden Network, to incentivise and tokenise a mesh network.
