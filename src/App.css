@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+li {
+  list-style: none
+}
+.App-header {
+  display: flex;
+  max-width: 100%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-header > div {
+  width:50%
+}
+
+.paymentInfo {
+  font-weight: 800 !important;
+}
+
+.networkList{
+  max-height: 400px;
+  overflow: scroll;
+  background: #fbfbfb;
+  margin-top: 20px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.networkListTitle{
+  margin: 10px;
+}
+
+.networkList .dataConsumption{
+  font-size: 0.8rem !important;
+  color: green !important;
+  text-align: center;
+  margin-right:50px
+}
+
+.snackBar{
+}
